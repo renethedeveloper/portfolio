@@ -14,7 +14,7 @@ function App() {
      
      <h3> <a href="https://www.linkedin.com/in/renethedeveloper/">Visit my LinkedIn Profile</a> </h3>
      <h3> <a href="https://front-xwzt.onrender.com/">A little Project In the Works</a> </h3>
-
+     <h3>DreamPop PlayHouse is a friend's vintage decor business. This is a website for it that I am currently working on. </h3>
     </>
   )
 }
